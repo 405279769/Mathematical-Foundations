@@ -110,4 +110,3 @@ $$S=P\times e^{rt}$$
 
 **Future value** The final value of an investment after one or more time periods.
 
-
