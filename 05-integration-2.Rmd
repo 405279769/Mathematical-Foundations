@@ -143,10 +143,3 @@ $$P(\alpha\le X\le\beta)=\int_\alpha^\beta f(x)dx.$$
 
 **Remark** It does not matter whether we include the endpoints $\alpha,\beta$. For a continuous random variable $X$, the probability that $X$ equals a specific value is $0$.
 
-
-
-
-
-
-
-
