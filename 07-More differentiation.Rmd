@@ -6,5 +6,11 @@
 
 ## Implicit differentiation {-}
 
+**Definition** Implicit differentiation is a technique for differentiating functions that are not given in the usual form y = f (x).
+
+**Example** Find the slope of the line tangent to the circle $ x^2 + y^2 = 4 $ at the point $ (\sqrt{2},\sqrt{2}) $
+
+**Example** Use implicit differentiation to find $ \frac{dy}{dx} $ given that $ x^3+4xy^2-7=y^3 $
+
 
 
