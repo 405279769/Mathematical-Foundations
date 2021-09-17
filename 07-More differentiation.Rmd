@@ -14,3 +14,20 @@
 
 
 
+# Applications {-}
+
+## More curve sketching {-}
+
+**Example** Example Let $ f (x) = x\ln {x} $.
+(1) Find and classify the critical number(s) of $ f  $ .
+(2) Find the interval(s) on which $ f  $ is increasing or decreasing, convex or concave.
+(3) Sketch the graph of $ f  $.
+
+## More extremum problems {-}
+
+**Example** A recording company has produced a new CD. Before launching a sales campaign, the marketing research department wants to determine the length of the campaign that will maximize total profits. From empirical data, it is estimated that the proportion of a target group of 50000 persons buying the CD after t days of TV promotion is given by $ 1-e^{-0.06t} $. If $20 is received for each CD sold and the promotion cost is C(t) = 200000 + 12000t  .
+(1) How many days of TV promotion should be used to maximize the profit?
+(2) What is the maximum profit?
+(3) What percentage of the target group will have purchased the CD when the maximum profit is reached?
+
+
