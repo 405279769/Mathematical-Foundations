@@ -1,7 +1,7 @@
-# Matrices
+# More differentiation
 
-## Basic Matrix Operations
+## Chain rule {-}
 
-## Matrix Inversion
+**The chain rule** Differentiate the outer function and multiply by the derivative of the inner function. A composite function is given by $h(x)=f(g(x))$, then the derivative of it is $h'(x)=f'(g(x))g'(x)$.
 
-## Cramer's rule
+## Implicit differentiation {-}
