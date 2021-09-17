@@ -88,9 +88,12 @@ $$f'(x),\frac{dy}{dx}=\lim_{\Delta x\rightarrow 0}\frac{\Delta y}{\Delta x}$$
 
 # Applications
 
+## Curve sketching
+
+**Example** Sketch the graph of $y = x^3 + 3x^2 - 45x $ for $-9 \leq x \leq 6$.
 
 
-## Optimization
+## Applied Extremum Problems
 
 **Optimization** The determination of the optimal points of a function.
 
