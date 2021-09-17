@@ -205,7 +205,3 @@ S_n&=\frac{1}{n}\cdot 0^2 + \frac{1}{n}\cdot\left(\frac{1}{n}\right)^2+\cdots+\f
 
 - If $n$ is very large, the error is very small and we get a good approximation for the required area. It is clear that if $n$ is very large (so that the error is small), $S_n$ is very close to $\frac{1}{3}$.
 
-
-
-
-
