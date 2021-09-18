@@ -6,7 +6,7 @@ Note that *an italic title* indicates an application section which is less impor
 
 It is quite surprising that differentiation and integration are related— they are *reverse process* of each other (see **Fundamental Theorem of Calculus**).
 
-## Notes on definite integrals {-}
+## Notes on definite integrals 
 
 **Theorem** Let $f$ be a function that is *continuous* on a *closed and bounded* interval $[a,b]$. Then the following limit exists:
 $$\underset{n\rightarrow\infty}{\lim}\sum_{i=1}^n f(x_{i-1})\cdot\frac{b-a}{n}$$
@@ -63,7 +63,7 @@ $\int_{0}^1x^2dx=\frac{1}{3}$
 
 - The numbers $a$ and $b$ are called the **limits of integration**.
 
-## Fundamental theorem of calculus {-}
+## Fundamental theorem of calculus 
 
 **Fundamental Theorem of Calculus V1** Let $f$ be a function that is continuous on a closed and bounded interval $[a,b]$. Let $F$ be the function from $[a,b]$ into $\mathbb{R}$ defined by
 $$F(x)=\int_a^xf(t)dt ~~~ for ~~ a\leq t \leq b.$$
@@ -150,7 +150,7 @@ for all $x\in(a,b)$.
 
 **Example** A particle moves along a line so that its velocity at time $t$ is $v(t)=t^2-t$ meters per second. Find the displacement of the particle during the time period $1\leq t\leq 2.$
 
-## Notes on indefinite integrals {-}
+## Notes on indefinite integrals 
 
 **Definition** Let $f$ be a function that is continuous on an open interval $(a,b)$. Suppose $F$ is a function defined on $(a,b)$ such that $F'(x)=f(x)$ for all $x\in(a,b)$. Then we say $F$ is an **antiderivative** for $f$ on $(a,b)$.
 
@@ -165,7 +165,7 @@ where $F$ is a function such that $F'(x)=f(x)$ for all $x\in(a,b)$ (i.e., $F$ is
 
 **Power Rule for Integration** Let $n$ be a positive integer. Then we have $$\int x^ndx=\frac{x^{n+1}}{n+1}+C, ~~~~, -\infty<x<\infty.$$
 
-## Indefinite integration
+## Indefinite integration 
 
 **Integration**  In calculus, the inverse of differentiation is called integration.
 
@@ -173,7 +173,7 @@ where $F$ is a function such that $F'(x)=f(x)$ for all $x\in(a,b)$ (i.e., $F$ is
 
 **Constant of integration** In general, if $F(x)$ is any function that differentiates to $f(x)$, then so does $F(x) + c$. The arbitrary constant, $c$, is called the *constant of integration*. 
 
-## Definite integration
+## Definite integration 
 
 **Definite integral** In general, the definite integral
 $$\int_{a}^b f(x)dx$$ denotes the *area* under the graph of $f(x)$ between $x = a$ and $x = b$. The
