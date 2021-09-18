@@ -1,33 +1,39 @@
 # More differentiation
 
-## Chain rule {-}
+## Chain rule 
 
 **The chain rule** Differentiate the outer function and multiply by the derivative of the inner function. A composite function is given by $h(x)=f(g(x))$, then the derivative of it is $h'(x)=f'(g(x))g'(x)$.
 
-## Implicit differentiation {-}
+## Implicit differentiation 
 
 **Definition** Implicit differentiation is a technique for differentiating functions that are not given in the usual form y = f (x).
 
-**Example** Find the slope of the line tangent to the circle $ x^2 + y^2 = 4 $ at the point $ (\sqrt{2},\sqrt{2}) $
+**Example** Find the slope of the line tangent to the circle $x^2 + y^2 = 4$ at the point $(\sqrt{2},\sqrt{2})$
 
-**Example** Use implicit differentiation to find $ \frac{dy}{dx} $ given that $ x^3+4xy^2-7=y^3 $
+**Example** Use implicit differentiation to find $\frac{dy}{dx}$ given that $x^3+4xy^2-7=y^3$
 
 
 
-# Applications {-}
+## Applications 
 
-## More curve sketching {-}
+### More curve sketching 
 
-**Example** Example Let $ f (x) = x\ln {x} $.
-(1) Find and classify the critical number(s) of $ f  $ .
-(2) Find the interval(s) on which $ f  $ is increasing or decreasing, convex or concave.
-(3) Sketch the graph of $ f  $.
+**Example** Example Let $f (x) = x\ln {x}$.
 
-## More extremum problems {-}
+(1) Find and classify the critical number(s) of $f$ .
 
-**Example** A recording company has produced a new CD. Before launching a sales campaign, the marketing research department wants to determine the length of the campaign that will maximize total profits. From empirical data, it is estimated that the proportion of a target group of 50000 persons buying the CD after t days of TV promotion is given by $ 1-e^{-0.06t} $. If $20 is received for each CD sold and the promotion cost is C(t) = 200000 + 12000t  .
+(2) Find the interval(s) on which $f$ is increasing or decreasing, convex or concave.
+
+(3) Sketch the graph of $f$.
+
+### More extremum problems 
+
+**Example** A recording company has produced a new CD. Before launching a sales campaign, the marketing research department wants to determine the length of the campaign that will maximize total profits. From empirical data, it is estimated that the proportion of a target group of 50000 persons buying the CD after t days of TV promotion is given by $1-e^{-0.06t}$. If $20 is received for each CD sold and the promotion cost is C(t) = 200000 + 12000t  .
+
 (1) How many days of TV promotion should be used to maximize the profit?
+
 (2) What is the maximum profit?
+
 (3) What percentage of the target group will have purchased the CD when the maximum profit is reached?
 
 
