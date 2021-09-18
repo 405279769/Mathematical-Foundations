@@ -1,6 +1,6 @@
 # More Integration
 
-## More Formulas {-}
+## More Formulas 
 
 1. $\int x^rdx=\frac{x^{r+1}}{r+1}+C$
 
@@ -16,7 +16,7 @@
 
 7. $\int \frac{1}{x}dx=\ln|x| +C$
 
-## Subsitution Method {-}
+## Subsitution Method 
 
 Let $y$ be a composition function of $F$ with $g$:
 $$y=F(g(x)).$$
@@ -44,7 +44,7 @@ where $g$ is a continuous function on $[a,b]$ and $f$ is a function defined and 
 
 **Example** Find the area of the region that lies between the $x$-axis and the graph of $y=xe^{-x^2}$ for $-1\le x\le 2$.
 
-## Integration of Rational Functions {-}
+## Integration of Rational Functions 
 
 $$\int \frac{A}{ax+b}dx\\=A\int\frac{1}{ax+b}dx\\=A\cdot\frac{1}{a}\cdot\ln|ax+b|+C$$
 We consider three cases when integrate 
@@ -80,7 +80,7 @@ which can be integrated using substitution $u=ax^2+bx+c$.
 
 **Example** Find $\int\frac{2x+3}{x^2+4x+13}dx$
 
-## Integration by Parts {-}
+## Integration by Parts 
 
 The technique in integration that corresponds to the product rule in differentiation is called **integration by parts**.
 
@@ -95,9 +95,9 @@ in which $\int f'(x)g(x)dx$ is easier to find than $\int f(x)g'(x)dx$.
 
 **Example** Find $\int xe^xdx, \int x\cos xdx, \int \ln x dx$.
 
-# Applications
+## Applications
 
-## Consumers' and Producer's surplus {-}
+### Consumers' and Producer's surplus
 
 **Consumer's surplus** The excess cost that a person would have been prepared to pay for goods
 over and above what is actually paid.
@@ -107,7 +107,7 @@ lower revenue that it was prepared to accept for the supply of its goods.
 
 **Net investment** Rate of change of capital stock over time: $$I = \frac{dK}{dt}.$$
 
-## Probability {-}
+### Probability
 
 **Definition** A variable whose values depend on the outcome of a random process is called a random variable.
 
@@ -150,11 +150,4 @@ provided that the limit exists.
 $$P(\alpha\le X\le\beta)=\int_\alpha^\beta f(x)dx.$$
 
 **Remark** It does not matter whether we include the endpoints $\alpha,\beta$. For a continuous random variable $X$, the probability that $X$ equals a specific value is $0$.
-
-
-
-
-
-
-
 
