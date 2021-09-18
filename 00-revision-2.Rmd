@@ -1,7 +1,7 @@
 
 # (PART) 💡 LECTURE NOTES {-}
 
-# Revision and Warm-up {-}
+# Revision and Warm-up 
 
 ## Exponents 
 
@@ -135,7 +135,7 @@ $$a^2+b^2=c^2$$
 **Equation of Circles** Let $C$ be the circle with center at $(h,k)$ and radius $r$. Then an equation for $C$ is
 $$(x-h)^2+(y-k)^2=r^2$$
 
-## Parabola {-}
+## Parabola 
 
 The graph of
 $$y=ax^2+bx+c$$
