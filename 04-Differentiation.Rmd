@@ -87,21 +87,24 @@ $$f'(x),\frac{dy}{dx}=\lim_{\Delta x\rightarrow 0}\frac{\Delta y}{\Delta x}$$
 ## Higher-order derivatives
 
 **Definition** Let $f$ be a function that is differentiable at some points belonging to $dom ( f )$. Then $f'$ is a function.
+
 (1) If, in addition, $f'$ is differentiable at some points belonging to $dom(f')$, then the derivative of $f'$ exists and is denoted by $f''$; it is the function given by $f''(x) = \lim_{h\to 0}\frac{f '(x + h)-f '(x)}{h}$ and is called the second derivative of $f$ .
+
 (2) If, in addition, $f''$ is differentiable at some points belonging to $dom ( f'')$, then the derivative of $f''$ is denoted by $f'''$, called the third derivative of $f$ .
-(3) In general, the n-th derivative of $f$ (where n is a positive integer), denoted by $ f (n)$, is defined to be the derivative of the (n-1)-th derivative of $f$ (where the 0-th derivative of $f$ means $f$ ). For n = 1, the first derivative of $f$ is simply the derivative $f'$ of $f$ . For n > 1, $f ^{(n)}$ is called a higher-order derivative of $f$ .
+
+(3) In general, the n-th derivative of $f$ (where n is a positive integer), denoted by $ f^{(n)} $, is defined to be the derivative of the (n-1)-th derivative of $f$ (where the 0-th derivative of $f$ means $f$ ). For n = 1, the first derivative of $f$ is simply the derivative $f'$ of $f$ . For n > 1, $f ^{(n)}$ is called a higher-order derivative of $f$ .
 
 **Notation** Similar to first order derivative, we have different notations for second order derivative of $f$ .
 $$ y'', f '',\frac{d^2y}{dx^2} , D^2 f, D^2y, f''(x) \ and \ \frac{d^2}{dx^2} f (x)$$
 
-**Example** Let $f (x) = 5x^3 - 2x^2 + 6x + 1$. Find the derivative and all the higher-order derivatives of $f$ .
+**Example** Let $ f (x) = 5x^3 - 2x^2 + 6x + 1 $. Find the derivative and all the higher-order derivatives of $f$ .
 
 
 ## Applications
 
 ### Curve sketching
 
-**Example** Sketch the graph of $y = x^3 + 3x^2 - 45x $ for $-9 \leq x \leq 6$.
+**Example** Sketch the graph of $ y = x^3 + 3x^2 - 45x $ for $-9 \leq x \leq 6$.
 
 ### Applied Extremum Problems
 
