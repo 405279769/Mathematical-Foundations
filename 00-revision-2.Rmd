@@ -3,7 +3,7 @@
 
 # Revision and Warm-up {-}
 
-## Exponents {-}
+## Exponents 
 
 In $a^n$, $n$ and $a$ are called the **exponent** and **base** respectively.
 
@@ -19,7 +19,7 @@ In $a^n$, $n$ and $a$ are called the **exponent** and **base** respectively.
 
 5. $\left(\frac{a}{b}\right)^n=\frac{a^n}{b^n}$
 
-## Algebraic Identities and Algebraic Expressions {-}
+## Algebraic Identities and Algebraic Expressions 
 
 **Identities** Let $a$ and $b$ be real numbers. Then we have
 
@@ -29,13 +29,13 @@ In $a^n$, $n$ and $a$ are called the **exponent** and **base** respectively.
 
 3. $(a+b)(a-b)=a^2-b^2$
 
-## Solving Linear Equations {-}
+## Solving Linear Equations 
 
 **Definition** A solution to $F(x)=0$ is a real number $x_0$ such that $F(x_0)=0$.
 
 **Definition** We say that two equations are equivalent if they have the same solution(s).
 
-## Solving Quadratic Equations {-}
+## Solving Quadratic Equations 
 
 A quadratic equation (in one unknown) is an equation that can be written in the form
 $$ax^2+bx+c=0$$
@@ -46,13 +46,13 @@ where $a,b$ and $c$ are constants and $a\neq0$. To solve this equations, we can 
 $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}.$$
 $b^2−4ac$ is called the *discriminant*
 
-## Remainder Theorem and Factor Theorem {-}
+## Remainder Theorem and Factor Theorem 
 
 **Remainder Theorem** If a polynomial $p(x)$ is divided by $x−c$, where $c$ is a constant, the remainder is $p(c)$.
 
 **Factor Theorem** $(x−c)$ is a factor of a polynomial $p(x)$ if and only if $p(c)=0$.
 
-## Solving Linear Inequalities {-}
+## Solving Linear Inequalities 
 
 **Definition** A solution to an inequality $F(x)<0$ is a real number $x_0$ such that $F(x_0)<0$. The definition also applies to other types of inequalities.
 
@@ -68,7 +68,7 @@ $b^2−4ac$ is called the *discriminant*
 
 5. If $a<b$ and $a$ and $b$ have the same sign, then $\frac{1}{a}>\frac{1}{b}$.
 
-## Lines {-}
+## Lines 
 
 A line equation in two unknowns $x$ and $y$ is an equation that can be written in the form
 $$ax+by+c=0$$
@@ -124,7 +124,7 @@ called the **slope-intercept form** for $l$.
 2. $l_1$ and $l_2$ are perpendicular to each other if and only if $m_1\cdot m_2=-1$.
 
 
-## Pythagoras Theorem, Distance Formula and Circles {-}
+## Pythagoras Theorem, Distance Formula and Circles 
 
 **Pythagoras Theorem** Let $a,b$ and $c$ be the (lengths of the) sides of a right-angled triangle where $c$ is the hypotenuse.Then we have
 $$a^2+b^2=c^2$$
@@ -147,7 +147,7 @@ where $a\neq 0$, is a *parabola*. The parabola intersects the $x$-axis at two di
 
 The vertical line that passes through the vertex is called the axis of symmetry because the parabola is symmetric about this line.
 
-## Systems of Equations {-}
+## Systems of Equations 
 
 A *system of two equations in two unknowns* $x$ and $y$ can be written as
 $$
@@ -170,9 +170,10 @@ $$
 
 we can use *elimination or substitution*.
 
-# Applications {-}
 
-## Supply and demand analysis {-}
+## Applications 
+
+### Supply and demand analysis 
 
 **Modeling** The creation of a piece of mathematical theory which represents (a simplification of) some aspect of practical economics.
 
@@ -182,7 +183,7 @@ we can use *elimination or substitution*.
 
 **Transpose a formula** The rearrangement of a formula to make one of the other letters the subject.
 
-## Profit analysis {-}
+### Profit analysis 
 
 **Total cost** The sum of the total variable cost $TVC$ and fixed costs $FC$: $TC = TVC + FC$.
 
