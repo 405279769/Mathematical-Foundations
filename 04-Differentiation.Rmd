@@ -84,15 +84,26 @@ $$f'(x),\frac{dy}{dx}=\lim_{\Delta x\rightarrow 0}\frac{\Delta y}{\Delta x}$$
 
 **Convex** Graph bends upwards when $f''(x)>0$.
 
+## Higher-order derivatives
 
-# Applications
+**Definition** Let $f$ be a function that is differentiable at some points belonging to $dom ( f )$. Then $f'$ is a function.
+(1) If, in addition, $f'$ is differentiable at some points belonging to $dom(f')$, then the derivative of $f'$ exists and is denoted by $f''$; it is the function given by $f''(x) = \lim_{h\to 0}\frac{f '(x + h)-f '(x)}{h}$ and is called the second derivative of $f$ .
+(2) If, in addition, $f''$ is differentiable at some points belonging to $dom ( f'')$, then the derivative of $f''$ is denoted by $f'''$, called the third derivative of $f$ .
+(3) In general, the n-th derivative of $f$ (where n is a positive integer), denoted by $ f (n)$, is defined to be the derivative of the (n-1)-th derivative of $f$ (where the 0-th derivative of $f$ means $f$ ). For n = 1, the first derivative of $f$ is simply the derivative $f'$ of $f$ . For n > 1, $f ^{(n)}$ is called a higher-order derivative of $f$ .
 
-## Curve sketching
+**Notation** Similar to first order derivative, we have different notations for second order derivative of $f$ .
+$$ y'', f '',\frac{d^2y}{dx^2} , D^2 f, D^2y, f''(x) \ and \ \frac{d^2}{dx^2} f (x)$$
+
+**Example** Let $f (x) = 5x^3 - 2x^2 + 6x + 1$. Find the derivative and all the higher-order derivatives of $f$ .
+
+
+## Applications
+
+### Curve sketching
 
 **Example** Sketch the graph of $y = x^3 + 3x^2 - 45x $ for $-9 \leq x \leq 6$.
 
-
-## Applied Extremum Problems
+### Applied Extremum Problems
 
 **Optimization** The determination of the optimal points of a function.
 
@@ -104,7 +115,7 @@ $$f'(x),\frac{dy}{dx}=\lim_{\Delta x\rightarrow 0}\frac{\Delta y}{\Delta x}$$
 
 **Stationary point of inflection** A stationary point that is neither a maximum nor a minimum. At such a point, the first-order derivative is zero and the second-order derivative is zero.
 
-## *Optimization of economic functions*
+*Optimization of economic functions*
 
 **Average product of labour (labour productivity)** Output per worker. $AQ_L=Q/L$.
 
@@ -114,13 +125,13 @@ $$f'(x),\frac{dy}{dx}=\lim_{\Delta x\rightarrow 0}\frac{\Delta y}{\Delta x}$$
 
 **Economic order quantity** The quantity of a product that should be ordered so as to minimize the total cost that includes ordering costs and holding costs.
 
-## *Marginal functions in economics*
+### *Marginal functions in economics*
 
 **Monopolist** The only firm in the industry.
 
 **Perfect competition** A situation in which there are no barries to entry in an industry where there are many firms selling an identical product at the market price.
 
-### *Profit* {-}
+*Profit* {-}
 
 **Marginal revenue** The extra revenue gained by selling 1 more unit of a good. $MR = \frac{d TR}{dQ}$.
 
@@ -128,20 +139,20 @@ $$f'(x),\frac{dy}{dx}=\lim_{\Delta x\rightarrow 0}\frac{\Delta y}{\Delta x}$$
 
 **Marginal cost** The cost of producing 1 more unit of output. $MC=\frac{dTC}{dQ}$.
 
-### *Production* {-}
+*Production* {-}
 
 **Marginal product of labor** The extra output produced by 1 more unit of labor. $MP_L=\frac{dQ}{dL}$.
 
 **Law of diminishing marginal productivity (Law of diminishing returns)** Once the size of the workforce exceeds a particular value, the increase in output due to 1-unit increase in labor will decline. $\frac{d^2Q}{dL^2}<0$ for sufficiently large $L$.
 
-### *National income* {-}
+*National income* {-}
 
 **Marginal propensity to consume** The fraction of a rise in national income which goes into consumption. $MPC=\frac{dC}{dY}$.
 
 **Marginal propensity to save** The fraction of a rise in national income which goes into savings. $MPS=\frac{dS}{dY}$.
 
 
-## *Elasticity*
+### *Elasticity*
 
 **Price elasticity of demand** A measure of the relative change in demand due to a relative change in price. 
 
@@ -153,5 +164,4 @@ $$f'(x),\frac{dy}{dx}=\lim_{\Delta x\rightarrow 0}\frac{\Delta y}{\Delta x}$$
 
 **Elastic (inelastic/unit elastic) demand** When the relative change in demand is more (less/same) than the corresponding relative change in price, i.e., $E>1 (E<1/E=1)$.
 
-**Derivative of an inverse function** Given $y=f(x)$ and its inverse function $x=f^{-1}(y)=h(y)$. The derivative of the inverse function $f^{-1}(y)$ is the reciprocal of the derivative of the original function. $\frac{dx}{dy}=h'(y)=\frac{1}{dy/dx}=\frac{1}{f'(x)}$.
 
